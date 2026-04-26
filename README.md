@@ -1,6 +1,13 @@
-<h1 align="center">Hi there, I'm Tanvi Gonge! 👋</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Tanvi+Gonge!+%F0%9F%91%8B;AI+%26+Data+Science+Engineer+%F0%9F%A4%96;AWS+Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;Python+Developer+%F0%9F%90%8D" alt="Typing SVG" />
+</h1>
 
 <h3 align="center">AI & Data Science Engineer | AWS Cloud | Python Developer | DevOps Enthusiast 🚀</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tanvi-2025&style=for-the-badge&color=6C63FF" />
+  <img src="https://img.shields.io/github/followers/tanvi-2025?style=for-the-badge&color=6C63FF" />
+</p>
 
 ---
 
@@ -51,6 +58,40 @@
 
 ---
 
+### 🎯 Current Learning & Goals:
+
+```python
+tanvi = {
+    "currently_learning" : ["MLOps", "Advanced Kubernetes", "LangChain & LLMs"],
+    "working_on"         : ["AI-Powered DevOps Automation", "AWS Cloud Projects"],
+    "goals_2025"         : ["Clear AZ-900 Certification", "Contribute to Open Source",
+                            "Build Production-Grade AI Systems"],
+    "fun_fact"           : "I automate problems before solving them manually 🤖"
+}
+```
+
+---
+
+### 💼 Featured Projects:
+
+| 🚀 Project | 🛠️ Tech Stack | 🔗 Link |
+|-----------|--------------|--------|
+| 🤖 AI-Based Assistive Portal for Stakeholders | Python, NLP, FastAPI, AWS EC2, Docker | [GitHub ↗](https://github.com/tanvi-2025) |
+| 🔄 CI/CD Pipeline with Auto Rollback | Jenkins, GitHub Actions, Docker, AWS EC2 | [GitHub ↗](https://github.com/tanvi-2025/cicd-auto-rollback-pipeline) |
+| 🐳 Dockerized Microservices App | Docker, Docker Compose, Python, Nginx, MySQL | [GitHub ↗](https://github.com/tanvi-2025/docker-microservices-compose) |
+| ⚙️ Kubernetes Deployment with Auto Scaling | Kubernetes, HPA, EKS, Helm, Prometheus | [GitHub ↗](https://github.com/tanvi-2025/k8s-hpa-autoscaling-app) |
+| 🧠 AI-Powered Incident Response Bot | Python, OpenAI API, Slack, Prometheus | [GitHub ↗](https://github.com/tanvi-2025/ai-incident-response-bot) |
+
+---
+
+### 🏆 GitHub Trophies:
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tanvi-2025&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies" />
+</p>
+
+---
+
 ### 🚀 GitHub Activity Launchpad:
 
 <p align="center">
@@ -66,13 +107,29 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanvi-2025&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvi-2025&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+---
+
+### 🎓 Certifications:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS_Academy_Cloud_Foundations-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python_Certified-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C_Certified-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/AZ--900_In_Progress-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</p>
+
 ---
 
 ### 🚀 About Me:
-* 🔭 I'm currently focused on **AI-powered Applications & AWS Cloud Infrastructure**.
-* 🌱 I'm constantly learning **Machine Learning, Kubernetes, and DevOps Automation**.
-* ⚡ Fun fact: "Building an AI model that actually works gives me more joy than anything else!"
-* 🤝 I am passionate about combining **AI & Cloud** to build intelligent, scalable systems.
+* 🔭 I'm currently focused on **AI-powered Applications & AWS Cloud Infrastructure**
+* 🌱 I'm constantly learning **MLOps, LangChain, and Advanced Kubernetes**
+* 🎯 2025 Goal: **Clear AZ-900 & build production-grade AI + Cloud systems**
+* ⚡ Fun fact: *"Building an AI model that actually works gives me more joy than anything else!"*
+* 🤝 Passionate about combining **AI & Cloud** to build intelligent, scalable systems
 
 ---
 
@@ -80,20 +137,22 @@
 
 <p align="left">
   <a href="mailto:tanvigonge@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/tanvi-gonge28291b290">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Open_To_Work-YES-green?style=for-the-badge" alt="Open To Work" />
+  <a href="https://github.com/tanvi-2025">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open_To_Work-YES-brightgreen?style=for-the-badge" />
 </p>
 
 *✨ "Always ready to discuss AI, Cloud, Automation, or just to say Hi!"* 🚀✨
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tanvi-2025&style=for-the-badge&color=blue" />
-</p>
+<p align="center">Made with ❤️ by Tanvi Gonge</p>
