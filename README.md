@@ -64,7 +64,7 @@
 tanvi = {
     "currently_learning" : ["MLOps", "Advanced Kubernetes", "LangChain & LLMs"],
     "working_on"         : ["AI-Powered DevOps Automation", "AWS Cloud Projects"],
-    "goals_2025"         : ["Clear AZ-900 Certification", "Contribute to Open Source",
+    "goals_2026"         : ["Clear AZ-900 Certification", "Contribute to Open Source",
                             "Build Production-Grade AI Systems"],
     "fun_fact"           : "I automate problems before solving them manually 🤖"
 }
