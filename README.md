@@ -17,12 +17,6 @@
   <table align="center">
     <tr>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=python" /><br>Python
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=tensorflow" /><br>TensorFlow
-      </td>
-      <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=aws" /><br>AWS
       </td>
       <td align="center" width="100">
@@ -38,16 +32,22 @@
         <img src="https://skillicons.dev/icons?i=linux" /><br>Linux
       </td>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=fastapi" /><br>FastAPI
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=mysql" /><br>MySQL
-      </td>
-      <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=git" /><br>Git
       </td>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=github" /><br>GitHub
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=python" /><br>Python
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=tensorflow" /><br>TensorFlow
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=fastapi" /><br>FastAPI
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=mysql" /><br>MySQL
       </td>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=vscode" /><br>VS Code
