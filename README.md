@@ -1,16 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&height=100&lines=Tanvi+Gonge" alt="Name" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:A855F7&height=220&section=header&text=Tanvi%20Gonge&fontSize=70&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20AWS%20Cloud%20Engineer%20%7C%20DevOps%20Engineer&descSize=18&descFontColor=FFFFFF&descAlignY=58" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-%F0%9F%A4%96_AI_%26_Data_Science_Engineer-6C63FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-☁️_AWS_Cloud_Engineer-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/-🚀_DevOps_Engineer-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Building+Intelligent+Cloud+Systems+%F0%9F%8C%90;AI+%2B+DevOps+%2B+AWS+%3D+%E2%9C%A8;Automating+the+Future%2C+One+Pipeline+at+a+Time+%F0%9F%94%A7" alt="Subtitle Typing" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Tanvi+Gonge!+%F0%9F%91%8B;AI+%26+Data+Science+Engineer+%F0%9F%A4%96;AWS+Cloud+Engineer+%E2%98%81%EF%B8%8F;DevOps+Engineer+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
 
 <h3 align="center">AI & Data Science Engineer | AWS Cloud Engineer | DevOps Engineer 🚀</h3>
 
@@ -250,5 +244,5 @@ tanvi = {
 <p align="center">Made with ❤️ by Tanvi Gonge</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI_%26_Cloud-Building_the_Future-6C63FF?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,100:6C63FF&height=120&section=footer" />
 </p>
